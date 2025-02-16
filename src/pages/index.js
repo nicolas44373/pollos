@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from '@/pages/components/Navbar';
 import '../styles/globals.css';
-import { ChevronRight, Truck, Award, Phone, Facebook, Twitter, Instagram, Linkedin } from 'lucide-react';
+import { Truck, Award, Phone, Facebook, Twitter, Instagram, Linkedin } from 'lucide-react';
 import { motion } from "framer-motion";
 import Image from 'next/image';
 

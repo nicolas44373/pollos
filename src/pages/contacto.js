@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Navbar from '@/pages/components/Navbar';
 import '../styles/globals.css';
-import { Mail, Phone, MapPin, Send, User, MessageSquare, CheckCircle, Instagram, FacebookIcon, Facebook } from 'lucide-react';
+import { Mail, Phone, MapPin, Send, User, MessageSquare, CheckCircle, Instagram, Facebook } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 export default function Contacto() {
